@@ -1,0 +1,17 @@
+:root {
+    /* kolory */
+    --main-bg-color: rgb(8, 8, 53);
+    --footer-bg-color: rgba(220,229,239,255);
+    --wyslij-bg-color: red;
+    --text-color: rgb(255, 255, 255);
+    --ornament-color: #d4b46c;
+    --link-color: #b8b8b8;
+    --link-color-hover: #ffffff;
+    --first-link-color: rgb(175, 5, 5);
+    --link-border-color: rgb(255, 255, 255);
+    --footer-text-color: black;
+    --footer-text-wyslij-color: white;
+    /* czcionki */
+    --body-family: 'Courier New', Courier, monospace;
+    /* inne do wyboru w pliku*/
+  }
